@@ -9,8 +9,6 @@ THEORY: - LVDT is basically a mutual inductance type transformer with variable c
 
 DIAGRAM:
 <img width="1038" height="599" alt="Screenshot 2026-05-25 004927" src="https://github.com/user-attachments/assets/ee799a71-3063-41c7-ae4e-929684c4da02" />
-<img width="1038" height="599" alt="Screenshot 2026-05-25 004927" src="https://github.com/user-attachments/assets/0d406fcb-92a4-4b33-8772-616555d835b4" />
-<img width="1038" height="599" alt="Screenshot 2026-05-25 004927" src="https://github.com/user-attachments/assets/8dbc646a-f04a-43dd-adf4-1a52b9e5cc5e" />
 
 WAVEFORM:
 <img width="595" height="697" alt="Screenshot 2026-05-25 005242" src="https://github.com/user-attachments/assets/8b36d48b-3239-4c33-b6d2-fd06430e1a23" />
