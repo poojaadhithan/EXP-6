@@ -11,6 +11,7 @@ DIAGRAM:
 <img width="1038" height="599" alt="Screenshot 2026-05-25 004927" src="https://github.com/user-attachments/assets/ee799a71-3063-41c7-ae4e-929684c4da02" />
 
 WAVEFORM:
+
 <img width="595" height="697" alt="Screenshot 2026-05-25 005242" src="https://github.com/user-attachments/assets/8b36d48b-3239-4c33-b6d2-fd06430e1a23" />
 
 PROCEDURE: -
